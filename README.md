@@ -1,4 +1,6 @@
-![](https://raw.githubusercontent.com/immortal521/Immortal521/main/assets/github-contribution-grid-snake.svg)
+<div align=center>
+ <img src="[https://github-readme-stats.vercel.app/api?username=immortal521&show_icons=true&theme=synthwave&locale=cn&border_radius=20px&hide_border=true&title_color=FFA4EE&text_color=F7E077](https://raw.githubusercontent.com/immortal521/Immortal521/main/assets/github-contribution-grid-snake.svg)" />
+</div>
 
 <div align=center>
  <img src="https://github-readme-stats.vercel.app/api?username=immortal521&show_icons=true&theme=synthwave&locale=cn&border_radius=20px&hide_border=true&title_color=FFA4EE&text_color=F7E077" />

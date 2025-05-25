@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/immortal521/Immortal521/main/assets/github-contribution-grid-snake.svg)
 <div align=center>
  <img src="https://raw.githubusercontent.com/immortal521/Immortal521/main/assets/github-contribution-grid-snake.svg" />
 </div>

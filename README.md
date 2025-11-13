@@ -7,6 +7,11 @@
 </div>
 
 <!-- waka-box start -->
+#### <a href="https://gist.github.com/ddee6660ea4819d749c4393b4cc8e382" target="_blank">📊 Weekly development breakdown</a>
+```text
+Still Gathering Statistics...
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
 <div align=center>

@@ -19,5 +19,5 @@ Go                       🕓 55m   █▏░░░░░░░░░░░░  
 <!-- waka-box end -->
 
 <div align=center>
- <kbd><img src="./profile/top-langs.svg"> <img src="./assets/18360825/917f50c2-290f-44b8-bc1d-f65c327860c3)" height="165" ></kbd>
+ <kbd><img src="./profile/top-langs.svg"> <img src="./assets/1.gif" height="165" ></kbd>
 </div>

@@ -9,11 +9,11 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/ddee6660ea4819d749c4393b4cc8e382" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Go          🕓 7h14m ████████████▌░░░░░░░░░░░░░░ 46.8%
-Lua         🕓 4h35m ███████▉░░░░░░░░░░░░░░░░░░░ 29.6%
-HTTP        🕓 1h6m  █▉░░░░░░░░░░░░░░░░░░░░░░░░░  7.1%
-Image (svg) 🕓 37m   █░░░░░░░░░░░░░░░░░░░░░░░░░░  4.0%
-JSON        🕓 27m   ▊░░░░░░░░░░░░░░░░░░░░░░░░░░  3.0%
+Go          🕓 7h46m ████████████▉░░░░░░░░░░░░░░ 47.9%
+Lua         🕓 4h35m ███████▋░░░░░░░░░░░░░░░░░░░ 28.3%
+HTTP        🕓 1h6m  █▊░░░░░░░░░░░░░░░░░░░░░░░░░  6.8%
+Image (svg) 🕓 37m   █░░░░░░░░░░░░░░░░░░░░░░░░░░  3.9%
+JSON        🕓 27m   ▊░░░░░░░░░░░░░░░░░░░░░░░░░░  2.9%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->

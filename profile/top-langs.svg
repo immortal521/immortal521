@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="90.26"
+          width="89.15"
           height="8"
           fill="#000080"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="90.26"
+          x="89.15"
           y="0"
-          width="51.98"
+          width="51.34"
           height="8"
           fill="#4E9906"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="142.24"
+          x="140.49"
           y="0"
-          width="47.81"
+          width="47.22"
           height="8"
           fill="#00ADD8"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="190.05"
+          x="187.71"
           y="0"
-          width="35.38"
+          width="37.97"
           height="8"
           fill="#41b883"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="225.43"
+          x="225.68"
           y="0"
-          width="14.09"
+          width="13.96"
           height="8"
           fill="#3178c6"
         />
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="239.52"
+          x="239.64000000000001"
           y="0"
-          width="10.49"
+          width="10.36"
           height="8"
           fill="#c9df40"
         />
@@ -191,42 +191,42 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua 36.10%
+        Lua 35.66%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#4E9906" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Nushell 20.79%
+        Nushell 20.54%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#00ADD8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Go 19.12%
+        Go 18.89%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#41b883" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue 14.15%
+        Vue 15.19%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 5.64%
+        TypeScript 5.58%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#c9df40" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Nu 4.19%
+        Nu 4.14%
       </text>
     </g>
   </g></g>
